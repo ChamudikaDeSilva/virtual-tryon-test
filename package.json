@@ -19,6 +19,8 @@
     "next": "15.3.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "three": "^0.176.0",
+    "three-stdlib": "^2.36.0",
     "virtual-tryon-test": "file:"
   },
   "devDependencies": {
@@ -26,6 +28,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@types/three": "^0.176.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
